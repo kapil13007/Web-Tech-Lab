@@ -1,0 +1,16 @@
+body{
+    max-width: 700px;
+    margin: 30px auto;
+    color: black;
+    border: 3px solid black;
+    padding: 10px;
+}
+h1, header p{
+    text-align: center;
+}
+h2{
+    border-bottom: 3px solid black;
+    padding-bottom: 5 px;
+    margin-top: 20px;
+}
+
