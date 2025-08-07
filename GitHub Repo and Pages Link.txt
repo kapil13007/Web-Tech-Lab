@@ -1,0 +1,3 @@
+Repo Link : https://github.com/kapil13007/Web-Tech-Lab.git
+
+Deployed Page link: https://kapil13007.github.io/Web-Tech-Lab/Week_2/
