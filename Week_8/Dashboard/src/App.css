@@ -1,0 +1,37 @@
+/* Simple minimal CSS - just the essentials */
+
+body {
+  background-color: #282c34;
+  color: white;
+}
+
+
+.Navigation-list .nav-link {
+  font-size: 24px !important;
+  font-weight: bold !important;
+  margin-left: 25px !important;
+  margin-right: 25px !important;
+  justify-content: center !important;
+  gap: 50px !important;
+}
+
+
+.Card {
+  border: 2px solid cyan !important;
+  background-color: cyan !important;
+  color: white !important;
+  padding: 15px !important;
+  margin-bottom: 15px !important;
+}
+
+.Card .card-body {
+  color: white !important;
+}
+
+.Card .card-title {
+  color: white !important;
+}
+
+.Card .card-text {
+  color: black !important;
+}
